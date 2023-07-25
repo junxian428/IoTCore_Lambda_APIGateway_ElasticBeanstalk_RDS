@@ -14,15 +14,13 @@ Software Details
 ![Untitled Diagram drawio (13)](https://github.com/junxian428/IoTCore_Lambda_APIGateway_ElasticBeanstalk_RDS/assets/58724748/9134e11b-8bec-43f4-971c-e609abe4b65e)
 
 
-
-
-Wiring:
+Frontend Design
 
 
 
-PLC:
+Backend Deesign
 
-![image](https://github.com/junxian428/IoTCore_Lambda_APIGateway_ElasticBeanstalk_RDS/assets/58724748/89fde887-4363-4700-b60a-8014d6e65ddd)
 
-Raspberry Pi:
+
+Database Design
 
